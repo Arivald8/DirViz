@@ -2,15 +2,8 @@
 Directory Tree Generator (DirViz)
 ==================================
 
-A Qt-based GUI application for generating and visualizing directory tree structures.
-
-This application allows to:
-- Browse and select directories from the file system
-- View a hierarchical representation of the selected directory
-- Select/deselect specific files and directories to include in the output
-- Generate a text-based directory tree visualization
-- Copy the generated tree structure to the clipboard
-- Toggle between light and dark themes
+A Qt-based GUI application for generating 
+and visualizing directory tree structures.
 
 Requirements:
 ------------
